@@ -1,1 +1,51 @@
 # table
+## Code:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background:url(download.jpg);background-size: 100%;">
+    <h1 align="center" style="color: aliceblue;"><b>PRICING PLANS</b></h1>
+    <p align="center" style="color: black"><i>Lorem isumdolor sit amet, consectetur adipiscing elic, sed do eiusmod tempor</br>incididunt ut labore et dolore magna aliqua</i></p>
+    <table style="color: aliceblue;" align="center" width="1200" height="500" border="1" cellspacing="0">
+        <tr style="font-size: 25px;">
+            <th style="background-color:rgb(225, 115, 133);">Plan 1</th>
+            <th style="background-color:rgb(205, 88, 88);">Plan 2</th>
+            <th style="background-color:rgb(255, 0, 0);">Plan 3</th>
+        </tr>
+        <tr>
+            <th style="background-color:rgb(0, 0, 0);">10 Gb</th>
+            <th style="background-color:rgb(0, 0, 0);">15 Gb</th>
+            <th style="background-color:rgb(0, 0, 0);">20 Gb</th>
+        </tr>
+        <tr>
+            <th style="background-color:rgb(76, 74, 74);">2</th>
+            <th style="background-color:rgb(76, 74, 74);">5</th>
+            <th style="background-color:rgb(76, 74, 74);">Unlimited</th>
+        </tr>
+        <tr>
+            <th style="background-color:rgb(0, 0, 0);">Free Trail</th>
+            <th style="background-color:rgb(0, 0, 0);">Free Trail</th>
+            <th style="background-color:rgb(0, 0, 0);">Free Trail</th>
+        </tr>
+        <tr>
+            <th style="background-color:rgb(76, 74, 74);">9.99$</th>
+            <th style="background-color:rgb(76, 74, 74);">19.99$</th>
+            <th style="background-color:rgb(76, 74, 74);">39.99$</th>
+        </tr>
+        <tr>
+            <th style="background-color:black;"><button style="background-color:rgb(225, 115, 133);;">PURCHASE</button></th>
+            <th style="background-color:black"><button style="background-color:rgb(205, 88, 88);">PURCHASE</button></th>
+            <th style="background-color:black;"><button style="background-color:rgb(255, 0, 0);">PURCHASE</button></th>
+        </tr>
+    </table>
+</body>
+</html>
+```
+## Output:
+![image](https://user-images.githubusercontent.com/93427303/233851065-d0862eac-e2a0-4a8d-ab8a-4d0b1dc08357.png)
